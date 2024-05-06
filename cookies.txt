@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+crsorgi.gov.in	TRUE	/	FALSE	1999999999	crs	jvm0gbu5jc8msbau601552ir90
+.crsorgi.gov.in	TRUE	/	FALSE	1999999999	TS015317c1	01e3182d35cde0419b7c4c4d83d0a0bd7039910b3231780a8bc890f48af9bca8b65cac82c287549f5db5ab1b4cab6503e36547d1a4
+
